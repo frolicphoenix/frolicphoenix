@@ -1,6 +1,5 @@
 # Hi! I am Pranjall, a Game Designer and a Full Stack Developer. 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=frolicphoenix&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ![](https://nirzak-streak-stats.vercel.app/?user=frolicphoenix&theme=merko&hide_border=false)
 
 ## 🌐 Connect with me on
